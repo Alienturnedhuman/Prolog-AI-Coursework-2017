@@ -1,0 +1,25 @@
+Well commented.
+
+Q1  20/20
+
+I would not have approached the problem in quite the same way (notwithstanding the number of piles) 
+although this is fine (much better than the initial approach)
+
+Q2 15/20
+
+All the elements are there but it is so much more complicated than necessary.
+
+Q3 15/20
+
+Fine but you make things more complicated than necessary. (see my solution).
+
+Q4 20/20
+
+Good.
+
+Q5 23/20
+
+Excellent. 3 Bonus points for this and general interest and effort in generalising to more than 2 piles. 
+However, I cannot go to far on bonus points.
+
+Overall mark 93%. Excellent!
